@@ -1,65 +1,59 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    list-style: none;
-    text-decoration: none;
-    font-family: 'Inter', sans-serif;
-    
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style: none;
+text-decoration: none;
+font-family: 'Inter', sans-serif;
 }
 
 header{
-    width: 100vw;
-    background-color: #4B93BF;
-    display: flex;
-    align-items: ;
-    justify-content: space-around;
-    height: 17vh;
-    color:#E4EEF1;
+width: 100vw;
+background-color: #4B93BF;
+display: flex;
+align-items: ;
+justify-content: space-around;
+height: 17vh;
+color:#E4EEF1;
 }
 header img{
 width: 6.9vw;
 }
 header div{
-    display: flex;
-    align-items: center;
-    width: 30vw;
-    justify-content: space-evenly;
+display: flex;
+align-items: center;
+width: 30vw;
+justify-content: space-evenly;
 }
 h2{
-    color: #E4EEF1;
-    width: 31vw;
+color: #E4EEF1;
+width: 31vw;
 }
 ul{
-    display: flex;
-    width: 44vw;
-    height: 17vh;
-    justify-content: space-around;
-    align-items: center;
-    
+display: flex;
+width: 44vw;
+height: 17vh;
+justify-content: space-around;
+align-items: center;
 }
 
 li:hover{
- font-size: larger;
+font-size: larger;
 }
 section {
-    width: 100vw;
-  background-color:#E4EEF1;  
+width: 100vw;
+background-color:#E4EEF1;  
 
-  height: 75vh;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-
-  
+height: 75vh;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
 }
 section div{
-    display: flex;
+display: flex;
 justify-content: space-around;
 align-items: flex-start;
-
 }
-
 .texto1{
 color: #0F468C;
 width: 30vw;
@@ -68,31 +62,30 @@ height: 40vh;
 .imginverno{
 height: 75vh;
 }
-
 .background3{
 background-color:#4B93BF;
 width: 100vw;
 height: 50vh;
 }
 figure{
-    color: #E4EEF1;
-    width: 100vw;
-    height: 100vh;
+color: #E4EEF1;
+width: 100vw;
+height: 100vh;
 display: flex;
 justify-content: space-evenly;
 align-items: center;
 }
 figure div{
-    width: 100vw;
-    justify-content: space-evenly;
-    align-items: ;
+width: 100vw;
+justify-content: space-evenly;
+align-items: ;
 }
 .Urso3{
-    height: 50vh;
-
-    justify-content: center;
-    align-items: center;
-
+height: 58vh;
+justify-content: center;
+align-items: center;
+padding-top: 20px;
+margin-left: 28px;
 }
 footer {
 background-color: #4B93BF;
@@ -100,42 +93,35 @@ display: flex;
 justify-content: space-around; 
 align-items: center;
 }
-
 .primeirasimgfooter{
-    height: 12vh;
-} 
+height: 12vh;
+}
 .nomealuno{
 width: 30vw;
 color: #E4EEF1;
-;
-
 }
 .nomeinstrutor{
-    width: 31vw ;
-    color: #E4EEF1;
-
+width: 31vw ;
+color: #E4EEF1;
 }
 .nomefacilitador{
-    width: 30vw;
-    color: #E4EEF1;
+width: 30vw;
+color: #E4EEF1;
 }
 .layoutp{
-    justify-content: center;
-    align-items: center;
-    color: #E4EEF1;
-
+justify-content: center;
+align-items: center;
+color: #E4EEF1;
 }
 footer p{
-
-    justify-content: center;
+justify-content: center;
 text-align: center;
 }
 section div figure{
-    height: 30vh;
-    align-content: center;
-    justify-content: right;
+height: 30vh;
+align-content: center;
+justify-content: right;
 }
 .pinguim{
-    height: 13vh;
-   
+height: 13vh;
 }
